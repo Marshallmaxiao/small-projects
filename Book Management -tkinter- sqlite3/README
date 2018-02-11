@@ -1,0 +1,20 @@
+@Marshall, 2018/01
+Original code: 
+    Udemy - Mega Applications 5 for Python
+    https://udemy-assets-on-demand2.udemy.com/2016-09-27_12-49-29-61397ea9052986b2b2dcf67f7a733f51/original.zip?nva=20180109015916&download=True&filename=Exercise-files.zip&token=06c65cce78280080a367d
+    https://www.udemy.com/the-python-mega-course/learn/v4/t/lecture/5793824?start=0
+
+Functions:
+    view all book info (title, author, year, isbn)
+    display selected item
+    update selected item
+    delete selected item
+    add entry
+    close button to quit
+
+New functions:
+    press ESC key to quit
+    blur search (at least title keyword is required)
+    
+Run this program with backend.py and books.db under same folder -- and play around!
+'''
