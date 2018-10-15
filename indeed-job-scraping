@@ -1,0 +1,5 @@
+a small program to scrape job posts from indeed.com
+- return job link, title, company, location, id, description, and no. of new results each time
+- able to search by title, type, location, etc
+- save result as an excel (can also do database) with date of search, and you can edit your status of applying. 
+- every time it will only add new jobs to the existing excel and won't affect jobs already in the database
